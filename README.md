@@ -45,7 +45,7 @@ Os arquivos deste projeto encontram-se nas pastas input e output deste repositó
 O tutorial original para este projeto pode ser encontrado em [Microsoft Learn - Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html).
 
 
-## Projeto 3: Leitura de textos em uma imagem
+## Projeto 3: Geração de legenda para uma imagem
 
 ### Visão Geral do Projeto
 
