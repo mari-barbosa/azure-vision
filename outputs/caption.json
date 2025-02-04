@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "94bf4ab5-2b38-4f11-9f8a-0156063dc5de",
+    "content-length": "160",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a woman holding files and a pen",
+      "confidence": 0.6709181666374207
+    },
+    "metadata": {
+      "width": 6225,
+      "height": 4150
+    }
+  }
